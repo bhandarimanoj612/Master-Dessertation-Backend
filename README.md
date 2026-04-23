@@ -68,7 +68,7 @@ This is the backend component of the SaaS Repair Service Management System, buil
 - `POST /api/auth/login` - User login
 - `GET /api/customers` - Get all customers
 - `POST /api/appointments` - Create appointment
-- And more... (Refer to the API documentation for full list)
+
 
 "Thank You"
 
